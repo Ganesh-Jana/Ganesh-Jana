@@ -1,182 +1,254 @@
-<!-- Banner -->
-<h1 align="center">Hi 👋, I'm Ganesh Chandra Jana</h1>
-<h3 align="center">Java Backend Developer | Software Engineer | Spring Boot Enthusiast</h3>
+# 👨‍💻 GitHub README — Ganesh Chandra Jana
+
+# Animated Header Banner
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Ganesh%20Chandra%20Jana&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20|%20Software%20Engineer%20|%20Spring%20Boot%20Developer&descAlignY=58"/>
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+API+%7C+Microservices;Building+Scalable+Backend+Applications;Always+Learning+New+Technologies"/>
+</p>
 
 <p align="center">
-Building scalable backend applications with Java, Spring Boot, REST APIs & Microservices.
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00C2FF&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=0A66C2"/>
+  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&color=FFD700"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-- 🎓 Computer Science Engineering Graduate from West Bengal, India.
-- 💻 Passionate about **Java Backend Development** and building real-world applications.
-- 🌱 Currently learning **Microservices, API Gateway, OpenFeign, Spring Security, Resilience4j, and Spring AI**.
-- 🔍 Interested in Backend Systems, REST APIs, Database Design, and Distributed Architecture.
-- 🤝 Looking for opportunities as a **Software Engineer / Java Backend Developer**.
+<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
----
+```java
+public class GaneshJana {
 
-## 🛠️ Tech Stack
+    String role = "Software Engineer (Java Backend Developer)";
+    String location = "West Bengal, India";
 
-### Backend
+    String[] skills = {
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "Microservices",
+        "MySQL",
+        "React.js"
+    };
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/SpringMVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=spring&logoColor=white)
+    String currentFocus =
+        "Spring Cloud • API Gateway • OpenFeign • Resilience4j • Spring AI";
 
-### Frontend
+    String goal =
+        "Build scalable backend systems and grow as a Java Software Engineer.";
+}
+```
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-black?style=for-the-badge&logo=intellijidea)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+- 🎓 Computer Science Engineering Graduate.
+- 💙 Passionate about Backend Engineering.
+- 🚀 Love building scalable REST APIs and distributed applications.
+- 🌱 Currently exploring Spring Cloud ecosystem and Docker.
+- 💼 Looking for Java Backend / Software Engineer opportunities.
 
 ---
 
-## 💼 Featured Projects
+# ⚡ Tech Arsenal
 
-### 🎓 BTechHUB — Learning Management Platform
+## 🚀 Backend
 
-Full Stack web application built using **React.js, Spring Boot, JWT Authentication, REST APIs, and MySQL**.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,hibernate"/>
+</p>
 
-#### Features
+## 🌐 Frontend
 
-- JWT-based authentication.
-- Course & student management.
-- Secure REST APIs.
-- MySQL database integration.
-- Responsive React frontend.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind"/>
+</p>
 
-**Tech Used**
+## ☁️ Dev Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,docker"/>
+</p>
+
+## 📚 Currently Learning
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kafka,redis"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/API%20Gateway-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenFeign-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Resilience4j-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Spring%20AI-success?style=for-the-badge"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🎓 BTechHUB — Learning Management Platform
+
+<img align="right" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+A complete **Full Stack Learning Management System** built with Java and React.
+
+### ✨ Features
+
+- JWT Authentication
+- Student & Course Management
+- Secure REST APIs
+- MySQL Database
+- Responsive React UI
+
+**Tech Stack**
 
 `Java` `Spring Boot` `Spring Security` `JWT` `React.js` `MySQL`
 
 ---
 
-### 📧 AI Email Writer Chrome Extension
+## 📧 AI Email Writer Chrome Extension
 
-A Chrome Extension powered by **Spring Boot + Gemini AI API** that generates professional email replies directly inside Gmail.
+Generate AI-powered email replies directly inside Gmail.
 
-#### Features
+### Features
 
-- AI-generated context-aware replies.
-- Tone selection.
-- REST API communication between extension and backend.
-- Automatic reply insertion into Gmail compose box.
+- 🤖 Gemini AI Integration.
+- ✍️ Context-aware replies.
+- 🎯 Tone Selection.
+- 🔄 REST API communication between Chrome Extension & Spring Boot backend.
 
-**Tech Used**
+**Tech Stack**
 
-`Java` `Spring Boot` `Chrome Extension` `REST API` `Gemini API`
-
----
-
-### 📇 Contact Manager Application
-
-A secure contact management application where users can manage personal and professional contacts.
-
-#### Features
-
-- CRUD operations.
-- Google & GitHub OAuth Login.
-- Contact organization.
-- MySQL persistence.
-
-**Tech Used**
-
-`Spring Boot` `OAuth2` `MySQL` `Thymeleaf`
+`Spring Boot` `Gemini API` `Chrome Extension` `REST API`
 
 ---
 
-## 📚 Currently Exploring
+## 📇 Contact Manager
 
-- Spring Cloud
-- API Gateway
-- Service Discovery
-- OpenFeign Client
-- Circuit Breaker (Resilience4j)
-- Retry & Fault Tolerance
-- Docker Basics
-- Spring AI
+Backend application to manage contacts securely.
 
----
+### Features
 
-## 💡 What I Enjoy Building
+- CRUD Operations.
+- OAuth Login (Google & GitHub).
+- MySQL Database.
+- Secure Authentication.
 
-- RESTful APIs
-- Backend Architecture
-- Authentication & Authorization
-- Database Design
-- Scalable Java Applications
-- AI Integrated Applications
+**Tech Stack**
+
+`Java` `Spring Boot` `OAuth2` `MySQL`
 
 ---
 
-## 🧠 Core CS Knowledge
+# 🧠 Core Computer Science Skills
 
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- DBMS
-- Operating Systems
-- Computer Networks
-- SQL & Database Optimization
+<p align="center">
+<img src="https://img.shields.io/badge/Data%20Structures-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Algorithms-E34F26?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-FF6B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Operating%20System-gray?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Networks-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🤝 Internship Experience
+# 💼 Internship Experience
 
 ### IEEE Computational Intelligence Society
 
-Worked on an **Email Spam Detection** project as part of a collaborative team.
+Worked on an **Email Spam Detection** project.
 
 **Learned**
 
-- Machine Learning fundamentals.
-- Team collaboration.
-- Project documentation.
-- Technical presentations.
+- Machine Learning Fundamentals.
+- Team Collaboration.
+- Documentation & Presentation.
+- Project Planning.
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Analytics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 💻 Most Used Languages
 
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## ✨ Developer Philosophy
+## 🏆 GitHub Trophies
 
-> "I enjoy solving real-world problems by writing clean, scalable, and maintainable backend code. Every project is an opportunity to learn better architecture, better APIs, and better software engineering practices."
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# ☕ Fun Developer Section
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+> Enable GitHub Actions to generate this animation.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# ✨ Developer Philosophy
+
+<p align="center">
+<i>"Clean code. Scalable architecture. Continuous learning."</i>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
+</p>
