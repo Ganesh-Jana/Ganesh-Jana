@@ -175,45 +175,16 @@ Generate professional email replies directly inside Gmail.
 # 📈 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ganesh-Jana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ganesh-Jana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/> -->
   <img width="48%" src="https://streak-stats.demolab.com?user=Ganesh-Jana&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 💻 Most Used Languages
 
-<p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-Jana&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
----
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ganesh-Jana&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-</p>
-
----
-
-# 📊 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganesh-Jana&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🔥 Contribution Snake Animation
-
-> Enable GitHub Actions once (instructions below).
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ganesh-Jana/Ganesh-Jana/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
 
 # ☕ Developer Quote
 
@@ -227,11 +198,11 @@ Generate professional email replies directly inside Gmail.
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_URL">
+<a href="https://linkedin.com/in/ganesh-chandra-jana-07a86a269/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:janaganesh810@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
