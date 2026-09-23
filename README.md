@@ -1,380 +1,236 @@
-# 👋 Hey, I'm Ganesh Jana
+# 👋 Hi, I'm Ganesh Jana
+
+### 🚀 Java Backend Developer | Spring Boot | AI/ML Enthusiast | Problem Solver
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL;AI+%26+Generative+AI+Enthusiast;Building+Real-World+Software;Turning+Ideas+Into+Products+%F0%9F%9A%80" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Ganesh-Jana">
-    <img src="https://img.shields.io/github/followers/Ganesh-Jana?label=Followers&style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://github.com/Ganesh-Jana?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Ganesh-Jana?label=Stars&style=for-the-badge&logo=github"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Ganesh-Jana&style=for-the-badge&color=blue" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;AI%2FML+Enthusiast;Building+Real-World+Projects;Always+Learning+Something+New" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-```java
-public class GaneshJana {
+I'm a **Final-Year B.Tech Computer Science student** passionate about building scalable backend systems and intelligent applications.
 
-    String role = "Java Backend Developer";
-    String education = "B.Tech CSE";
-    String focus = "Backend + AI";
-    
-    String[] technologies = {
-        "Java",
-        "Spring Boot",
-        "REST APIs",
-        "MySQL",
-        "React",
-        "Machine Learning",
-        "Generative AI"
-    };
-
-    String currentlyLearning =
-        "System Design + AI Engineering";
-
-    String mindset =
-        "Build → Break → Learn → Improve";
-
-}
-```
-
-I'm a **Final-Year B.Tech Computer Science student** focused on building backend systems and AI-powered applications.
-
-I enjoy turning ideas into practical software using **Java, Spring Boot, REST APIs, databases, and AI technologies**.
-
-### 🚀 What I'm focused on
-
-* ☕ Java Backend Development
-* 🌱 Spring Boot & REST API Development
-* 🔐 Spring Security & JWT Authentication
-* 🗄️ Database Design & SQL
-* 🤖 Generative AI & LLM Applications
-* 🧠 Machine Learning
-* 🏗️ System Design
-* 🧩 Data Structures & Algorithms
+* 🔭 Currently building **Java + Spring Boot + AI-powered applications**
+* ☕ Focused on **Java Backend Development**
+* 🤖 Exploring **Generative AI, Machine Learning & AI Agents**
+* 🌱 Currently improving my **DSA, System Design & Backend Development**
+* 💡 Interested in solving real-world problems through technology
+* 🧠 I enjoy learning by building projects
+* 🎯 Preparing for **Software Development / Java Backend roles**
+* ♟️ Hobbies: **Cricket & Chess**
 
 ---
 
-# ⚡ Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,sql" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,sql,html,css" />
 </p>
 
-### Backend
+### ⚙️ Backend & Frameworks
 
 <p>
 <img src="https://skillicons.dev/icons?i=spring,hibernate,maven" />
 </p>
 
-`Spring Boot` `Spring Security` `Spring Data JPA` `Hibernate` `REST APIs` `JWT`
+* Java
+* Spring Boot
+* Spring Security
+* Spring Data JPA
+* Hibernate
+* REST APIs
+* JWT Authentication
+* Thymeleaf
 
-### Frontend
+### 🎨 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind" />
 </p>
 
-### Databases
+### 🗄️ Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
 </p>
 
-### AI / ML
+### 🤖 AI / Machine Learning
+
+* Machine Learning
+* Generative AI
+* LLM Applications
+* Prompt Engineering
+* AI Chatbots
+* Spring AI
+* Python ML
+* Pandas
+* NumPy
+* Scikit-learn
+
+### 🔧 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-`Machine Learning` `Generative AI` `LLMs` `Prompt Engineering` `AI Agents` `Spring AI` `Pandas` `NumPy` `Scikit-learn`
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,docker,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker,vercel" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 📚 BTechHub
+## 📚 BTechHub — B.Tech Study Platform
 
-### The Study Platform for B.Tech Students
+A web-based platform designed to help engineering students access academic resources in one place.
 
-A full-stack educational platform designed to organize study resources for engineering students.
+### Features
 
-**Problem:**
-Students often have study materials, syllabus, PYQs and useful resources scattered across different platforms.
-
-**Solution:**
-BTechHub brings these resources together into one structured platform.
-
-### ✨ Features
-
-* 📚 Semester-wise study materials
-* 📖 Subject & syllabus management
+* 📖 Semester-wise study materials
 * 📝 Previous Year Questions
-* 🎥 Educational video resources
+* 🎥 Educational YouTube resources
+* 📚 Subject & syllabus management
 * 👨‍🎓 Student dashboard
 * 🔐 Authentication & authorization
-* 🛠️ Admin management
+* 🛠️ Admin panel
+* 🤖 AI-powered study assistant
 * 📊 SGPA / CGPA calculator
-* 🤖 AI Study Assistant
 
-### 🛠️ Architecture
+### Tech Stack
 
-```text
-React.js
-    │
-    │ REST API
-    ▼
-Spring Boot
-    │
-    ├── Spring Security
-    ├── JWT Authentication
-    ├── REST Controllers
-    ├── Service Layer
-    └── JPA / Hibernate
-          │
-          ▼
-        MySQL
-```
-
-**Tech:** `Java` `Spring Boot` `React.js` `MySQL` `Spring Security` `JWT` `REST API`
+**React.js • Java • Spring Boot • Spring Security • JWT • MySQL • REST API**
 
 ---
 
-# 🤖 AI Customer Support Platform
+## 🤖 AI Customer Support Platform
 
-### AI-powered support infrastructure for small businesses
-
-A planned AI SaaS platform that helps small businesses automate customer support while keeping human agents in control.
-
-### Core Architecture
-
-```text
-                 ┌─────────────────┐
-                 │     Customer    │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │   React Client  │
-                 └────────┬────────┘
-                          │
-                     REST / WebSocket
-                          │
-                          ▼
-              ┌───────────────────────┐
-              │    Spring Boot API    │
-              └───────────┬───────────┘
-                          │
-              ┌───────────┴───────────┐
-              ▼                       ▼
-        ┌───────────┐          ┌─────────────┐
-        │ PostgreSQL│          │ AI Service  │
-        └───────────┘          └──────┬──────┘
-                                      │
-                                      ▼
-                                ┌───────────┐
-                                │    LLM    │
-                                └───────────┘
-```
+An AI-powered customer support platform designed for small businesses.
 
 ### Planned Features
 
-* 💬 AI customer conversations
-* 🧠 Knowledge-base powered responses
-* 🎫 Ticket management
-* 👨‍💼 Human-agent takeover
+* 💬 AI-powered customer conversations
+* 🤖 Automated FAQ responses
 * 📊 Customer analytics
-* 🔐 Role-based authentication
-* 🤖 AI automation
-* 📈 Support performance dashboard
+* 🎫 Ticket management
+* 🧠 Knowledge-base powered AI
+* 👨‍💼 Admin dashboard
+* 🔐 Secure authentication
+* 📈 Conversation analytics
 
-**Tech:** `Java` `Spring Boot` `React` `PostgreSQL` `LLM APIs` `AI Agents`
+### Tech Stack
+
+**Java • Spring Boot • React • PostgreSQL/MySQL • REST APIs • LLM APIs • AI Agents**
 
 ---
 
-# 🧠 AI Resume Analyzer
+## 📄 AI Resume Analyzer
 
-An AI-powered application designed to analyze resumes against job descriptions.
+An AI-powered application that analyzes resumes and provides insights based on job descriptions.
 
-### Workflow
+### Features
 
-```text
-Resume
-   ↓
-Document Parsing
-   ↓
-Skill Extraction
-   ↓
-Job Description Analysis
-   ↓
-AI / ML Processing
-   ↓
-Match Analysis
-   ↓
-Skill Gap Detection
-   ↓
-Improvement Suggestions
-```
-
-### Key Features
-
-* 📄 Resume analysis
+* 📄 Resume parsing
 * 🔍 Job description analysis
-* 🎯 Skill matching
-* 📊 Match insights
-* 🧠 AI-generated recommendations
-* 📈 Skill-gap identification
+* 📊 Resume-job matching
+* 🧠 AI-generated suggestions
+* 🎯 Skill gap identification
+* 📈 ATS-oriented analysis
 
-**Tech:** `Java` `Spring Boot` `Python` `Machine Learning` `LLM` `React`
+### Tech Stack
 
----
-
-# 🧩 Engineering Interests
-
-```text
-Backend Engineering
-       │
-       ├── Java
-       ├── Spring Boot
-       ├── REST APIs
-       ├── Security
-       └── Database Design
-                │
-                ▼
-          System Design
-                │
-                ▼
-          AI Engineering
-                │
-       ┌────────┼────────┐
-       ▼        ▼        ▼
-      LLMs    RAG     AI Agents
-```
+**Spring Boot • Java • Python • Machine Learning • LLM • React**
 
 ---
 
-# 📊 GitHub Analytics
+# 💻 Coding & DSA
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ganesh-Jana&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-Jana&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+Currently strengthening my problem-solving skills through regular practice.
 
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ganesh-Jana&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ganesh-Jana/Ganesh-Jana/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-# 💻 Problem Solving
-
-Currently working on strengthening my DSA and problem-solving skills.
+### Topics I'm Working On
 
 ```text
 Arrays
- ├── Strings
- ├── HashMap / HashSet
- ├── Two Pointers
- └── Sliding Window
-
-Data Structures
- ├── Linked List
- ├── Stack
- ├── Queue
- ├── Trees
- └── Graphs
-
-Algorithms
- ├── Binary Search
- ├── Sorting
- ├── Greedy
- └── Dynamic Programming
+Strings
+HashMap / HashSet
+Two Pointers
+Sliding Window
+Stack & Queue
+Linked List
+Binary Search
+Sorting
+Greedy
+Trees
+Graphs
+Dynamic Programming
 ```
 
----
-
-# 🎯 2026 Roadmap
-
-### Backend
-
-* [x] Java
-* [x] Spring Boot
-* [x] REST APIs
-* [x] MySQL
-* [x] Spring Security
-* [ ] JWT
-* [ ] Advanced System Design
-* [ ] Microservices
-* [ ] Docker & Cloud
-
-### AI
-
-* [x] Machine Learning Fundamentals
-* [x] Generative AI Fundamentals
-* [ ] Spring AI
-* [ ] RAG Applications
-* [ ] AI Agents
-* [ ] Production AI Systems
-
-### Problem Solving
-
-* [x] Arrays
-* [x] Strings
-* [x] HashMap
-* [ ] Trees
-* [ ] Graphs
-* [ ] Dynamic Programming
+> "First solve the problem. Then write the code."
 
 ---
 
-# 🏆 What I Bring
+# 📊 GitHub Stats
 
-<table>
-<tr>
-<td align="center">☕<br><b>Java</b><br>Backend Development</td>
-<td align="center">⚙️<br><b>Spring Boot</b><br>REST APIs</td>
-<td align="center">🤖<br><b>AI</b><br>LLM Applications</td>
-<td align="center">🧠<br><b>DSA</b><br>Problem Solving</td>
-</tr>
-</table>
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ganesh-Jana&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-Jana&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</p>
 
 ---
 
-# 📌 Currently Building
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Ganesh-Jana&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganesh-Jana&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🧠 Currently Learning
 
 ```text
-🚀 Real-world Java applications
-🤖 AI-powered products
-🔐 Secure REST APIs
-🧠 AI + Backend integrations
-🏗️ Scalable backend architectures
+Java Backend Development
+        ↓
+Spring Boot
+        ↓
+REST API Design
+        ↓
+Spring Security + JWT
+        ↓
+System Design
+        ↓
+Generative AI
+        ↓
+AI Agents
+        ↓
+Production-Ready Applications
 ```
+
+---
+
+# 🎯 2026 Goals
+
+* [x] Build real-world projects
+* [x] Learn Spring Boot
+* [x] Build REST APIs
+* [x] Work with MySQL
+* [x] Learn React
+* [ ] Master DSA
+* [ ] Improve System Design
+* [ ] Build production-ready AI applications
+* [ ] Contribute to Open Source
+* [ ] Land a Software Developer role 🚀
 
 ---
 
@@ -382,32 +238,28 @@ Algorithms
 
 <p align="center">
 
-<a href="https://github.com/Ganesh-Jana">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:[your-email@example.com](mailto:your-email@example.com)">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/Ganesh-Jana">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-<p align="center">
+## 💬 Ask Me About
 
-### 💡 Build things that solve real problems.
-
-### 🚀 Learn continuously. Build consistently. Improve every day.
-
-</p>
+**Java • Spring Boot • REST APIs • React • MySQL • DSA • AI/ML • Generative AI • Backend Development**
 
 ---
 
 <p align="center">
-<i>Thanks for visiting my profile! ⭐</i>
+
+### ⭐ Thanks for visiting my profile!
+
+**"Build. Learn. Fail. Improve. Repeat."**
+
 </p>
