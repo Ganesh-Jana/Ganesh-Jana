@@ -1,6 +1,5 @@
 # 👨‍💻 GitHub README — Ganesh Chandra Jana
 
-# Animated Header Banner
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Ganesh%20Chandra%20Jana&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20|%20Software%20Engineer%20|%20Spring%20Boot%20Developer&descAlignY=58"/>
 </p>
@@ -10,11 +9,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+API+%7C+Microservices;Building+Scalable+Backend+Applications;Always+Learning+New+Technologies"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00C2FF&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=0A66C2"/>
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&color=FFD700"/>
-</p>
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ganesh-Jana&label=Profile%20Views&color=00C2FF&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/Ganesh-Jana?style=for-the-badge&color=0A66C2"/>
+  <img src="https://img.shields.io/github/stars/Ganesh-Jana?style=for-the-badge&color=FFD700"/>
+</p> -->
 
 ---
 
@@ -126,22 +125,7 @@ Generate AI-powered email replies directly inside Gmail.
 
 `Spring Boot` `Gemini API` `Chrome Extension` `REST API`
 
----
 
-## 📇 Contact Manager
-
-Backend application to manage contacts securely.
-
-### Features
-
-- CRUD Operations.
-- OAuth Login (Google & GitHub).
-- MySQL Database.
-- Secure Authentication.
-
-**Tech Stack**
-
-`Java` `Spring Boot` `OAuth2` `MySQL`
 
 ---
 
@@ -159,26 +143,12 @@ Backend application to manage contacts securely.
 
 ---
 
-# 💼 Internship Experience
-
-### IEEE Computational Intelligence Society
-
-Worked on an **Email Spam Detection** project.
-
-**Learned**
-
-- Machine Learning Fundamentals.
-- Team Collaboration.
-- Documentation & Presentation.
-- Project Planning.
-
----
 
 # 📈 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ganesh-Jana&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ganesh-Jana&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -186,7 +156,7 @@ Worked on an **Email Spam Detection** project.
 ## 💻 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-Jana&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -194,7 +164,7 @@ Worked on an **Email Spam Detection** project.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ganesh-Jana&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 </p>
 
 ---
@@ -202,7 +172,7 @@ Worked on an **Email Spam Detection** project.
 ## 📊 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganesh-Jana&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -214,11 +184,11 @@ Worked on an **Email Spam Detection** project.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:janaganesh810@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Ganesh-Jana">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -238,7 +208,7 @@ Worked on an **Email Spam Detection** project.
 > Enable GitHub Actions to generate this animation.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Ganesh-Jana/Ganesh-Jana/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
