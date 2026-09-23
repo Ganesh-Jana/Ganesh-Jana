@@ -1,265 +1,182 @@
-# 👋 Hi, I'm Ganesh Jana
-
-### 🚀 Java Backend Developer | Spring Boot | AI/ML Enthusiast | Problem Solver
+<!-- Banner -->
+<h1 align="center">Hi 👋, I'm Ganesh Chandra Jana</h1>
+<h3 align="center">Java Backend Developer | Software Engineer | Spring Boot Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;AI%2FML+Enthusiast;Building+Real-World+Projects;Always+Learning+Something+New" />
+Building scalable backend applications with Java, Spring Boot, REST APIs & Microservices.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I'm a **Final-Year B.Tech Computer Science student** passionate about building scalable backend systems and intelligent applications.
-
-* 🔭 Currently building **Java + Spring Boot + AI-powered applications**
-* ☕ Focused on **Java Backend Development**
-* 🤖 Exploring **Generative AI, Machine Learning & AI Agents**
-* 🌱 Currently improving my **DSA, System Design & Backend Development**
-* 💡 Interested in solving real-world problems through technology
-* 🧠 I enjoy learning by building projects
-* 🎯 Preparing for **Software Development / Java Backend roles**
-* ♟️ Hobbies: **Cricket & Chess**
+- 🎓 Computer Science Engineering Graduate from West Bengal, India.
+- 💻 Passionate about **Java Backend Development** and building real-world applications.
+- 🌱 Currently learning **Microservices, API Gateway, OpenFeign, Spring Security, Resilience4j, and Spring AI**.
+- 🔍 Interested in Backend Systems, REST APIs, Database Design, and Distributed Architecture.
+- 🤝 Looking for opportunities as a **Software Engineer / Java Backend Developer**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,sql,html,css" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/SpringMVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=spring&logoColor=white)
 
-### ⚙️ Backend & Frameworks
+### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,hibernate,maven" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-* Java
-* Spring Boot
-* Spring Security
-* Spring Data JPA
-* Hibernate
-* REST APIs
-* JWT Authentication
-* Thymeleaf
+### Database
 
-### 🎨 Frontend
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind" />
-</p>
+### Tools
 
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
-</p>
-
-### 🤖 AI / Machine Learning
-
-* Machine Learning
-* Generative AI
-* LLM Applications
-* Prompt Engineering
-* AI Chatbots
-* Spring AI
-* Python ML
-* Pandas
-* NumPy
-* Scikit-learn
-
-### 🔧 Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker,vercel" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-black?style=for-the-badge&logo=intellijidea)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-# 🚀 Featured Projects
+## 💼 Featured Projects
 
-## 📚 BTechHub — B.Tech Study Platform
+### 🎓 BTechHUB — Learning Management Platform
 
-A web-based platform designed to help engineering students access academic resources in one place.
+Full Stack web application built using **React.js, Spring Boot, JWT Authentication, REST APIs, and MySQL**.
 
-### Features
+#### Features
 
-* 📖 Semester-wise study materials
-* 📝 Previous Year Questions
-* 🎥 Educational YouTube resources
-* 📚 Subject & syllabus management
-* 👨‍🎓 Student dashboard
-* 🔐 Authentication & authorization
-* 🛠️ Admin panel
-* 🤖 AI-powered study assistant
-* 📊 SGPA / CGPA calculator
+- JWT-based authentication.
+- Course & student management.
+- Secure REST APIs.
+- MySQL database integration.
+- Responsive React frontend.
 
-### Tech Stack
+**Tech Used**
 
-**React.js • Java • Spring Boot • Spring Security • JWT • MySQL • REST API**
+`Java` `Spring Boot` `Spring Security` `JWT` `React.js` `MySQL`
 
 ---
 
-## 🤖 AI Customer Support Platform
+### 📧 AI Email Writer Chrome Extension
 
-An AI-powered customer support platform designed for small businesses.
+A Chrome Extension powered by **Spring Boot + Gemini AI API** that generates professional email replies directly inside Gmail.
 
-### Planned Features
+#### Features
 
-* 💬 AI-powered customer conversations
-* 🤖 Automated FAQ responses
-* 📊 Customer analytics
-* 🎫 Ticket management
-* 🧠 Knowledge-base powered AI
-* 👨‍💼 Admin dashboard
-* 🔐 Secure authentication
-* 📈 Conversation analytics
+- AI-generated context-aware replies.
+- Tone selection.
+- REST API communication between extension and backend.
+- Automatic reply insertion into Gmail compose box.
 
-### Tech Stack
+**Tech Used**
 
-**Java • Spring Boot • React • PostgreSQL/MySQL • REST APIs • LLM APIs • AI Agents**
+`Java` `Spring Boot` `Chrome Extension` `REST API` `Gemini API`
 
 ---
 
-## 📄 AI Resume Analyzer
+### 📇 Contact Manager Application
 
-An AI-powered application that analyzes resumes and provides insights based on job descriptions.
+A secure contact management application where users can manage personal and professional contacts.
 
-### Features
+#### Features
 
-* 📄 Resume parsing
-* 🔍 Job description analysis
-* 📊 Resume-job matching
-* 🧠 AI-generated suggestions
-* 🎯 Skill gap identification
-* 📈 ATS-oriented analysis
+- CRUD operations.
+- Google & GitHub OAuth Login.
+- Contact organization.
+- MySQL persistence.
 
-### Tech Stack
+**Tech Used**
 
-**Spring Boot • Java • Python • Machine Learning • LLM • React**
+`Spring Boot` `OAuth2` `MySQL` `Thymeleaf`
 
 ---
 
-# 💻 Coding & DSA
+## 📚 Currently Exploring
 
-Currently strengthening my problem-solving skills through regular practice.
-
-### Topics I'm Working On
-
-```text
-Arrays
-Strings
-HashMap / HashSet
-Two Pointers
-Sliding Window
-Stack & Queue
-Linked List
-Binary Search
-Sorting
-Greedy
-Trees
-Graphs
-Dynamic Programming
-```
-
-> "First solve the problem. Then write the code."
+- Spring Cloud
+- API Gateway
+- Service Discovery
+- OpenFeign Client
+- Circuit Breaker (Resilience4j)
+- Retry & Fault Tolerance
+- Docker Basics
+- Spring AI
 
 ---
 
-# 📊 GitHub Stats
+## 💡 What I Enjoy Building
+
+- RESTful APIs
+- Backend Architecture
+- Authentication & Authorization
+- Database Design
+- Scalable Java Applications
+- AI Integrated Applications
+
+---
+
+## 🧠 Core CS Knowledge
+
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- DBMS
+- Operating Systems
+- Computer Networks
+- SQL & Database Optimization
+
+---
+
+## 🤝 Internship Experience
+
+### IEEE Computational Intelligence Society
+
+Worked on an **Email Spam Detection** project as part of a collaborative team.
+
+**Learned**
+
+- Machine Learning fundamentals.
+- Team collaboration.
+- Project documentation.
+- Technical presentations.
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ganesh-Jana&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-Jana&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Ganesh-Jana&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganesh-Jana&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-# 🧠 Currently Learning
-
-```text
-Java Backend Development
-        ↓
-Spring Boot
-        ↓
-REST API Design
-        ↓
-Spring Security + JWT
-        ↓
-System Design
-        ↓
-Generative AI
-        ↓
-AI Agents
-        ↓
-Production-Ready Applications
-```
-
----
-
-# 🎯 2026 Goals
-
-* [x] Build real-world projects
-* [x] Learn Spring Boot
-* [x] Build REST APIs
-* [x] Work with MySQL
-* [x] Learn React
-* [ ] Master DSA
-* [ ] Improve System Design
-* [ ] Build production-ready AI applications
-* [ ] Contribute to Open Source
-* [ ] Land a Software Developer role 🚀
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Ganesh-Jana">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 💬 Ask Me About
+## 🌐 Connect With Me
 
-**Java • Spring Boot • REST APIs • React • MySQL • DSA • AI/ML • Generative AI • Backend Development**
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
+</p>
 
 ---
 
-<p align="center">
+## ✨ Developer Philosophy
 
-### ⭐ Thanks for visiting my profile!
-
-**"Build. Learn. Fail. Improve. Repeat."**
-
-</p>
+> "I enjoy solving real-world problems by writing clean, scalable, and maintainable backend code. Every project is an opportunity to learn better architecture, better APIs, and better software engineering practices."
